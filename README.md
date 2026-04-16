@@ -133,4 +133,4 @@ This project is licensed under the MIT License.
 
 Developed by **Harathi**
 
-If you like this project, give it a on GitHub!
+
